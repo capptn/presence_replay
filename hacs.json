@@ -1,0 +1,6 @@
+{
+  "name": "Presence Replay",
+  "domain": "presence_replay",
+  "content_in_root": false,
+  "iot_class": "local_polling"
+}
