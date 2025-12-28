@@ -1,2 +1,1 @@
-# Presence Replay Premium
-Premium UI Version
+# Presence Replay (Premium)

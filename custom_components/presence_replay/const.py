@@ -1,1 +1,12 @@
-DOMAIN="presence_replay"
+DOMAIN='presence_replay'
+STORAGE_KEY='presence_replay'
+STORAGE_VERSION=1
+CONF_ENTITIES='entities'
+CONF_REFERENCE_DAYS='reference_days'
+CONF_RANDOM_SEC='random_seconds'
+CONF_MIN_EVENT_GAP='min_event_gap'
+CONF_TIME_WINDOWS='time_windows'
+DEFAULT_REFERENCE_DAYS=14
+DEFAULT_RANDOM_SEC=45
+DEFAULT_MIN_EVENT_GAP=120
+DEFAULT_TIME_WINDOWS=[{'start':'06:30','end':'09:00'},{'start':'17:00','end':'22:30'}]

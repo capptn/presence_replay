@@ -1,1 +1,13 @@
-{"domain":"presence_replay","name":"Presence Replay","version":"1.0.0","dependencies":["recorder","http","frontend"]}
+{
+  "domain": "presence_replay",
+  "name": "Presence Replay",
+  "version": "1.0.1",
+  "documentation": "https://github.com/yourname/presence-replay",
+  "dependencies": [
+    "recorder",
+    "http",
+    "frontend"
+  ],
+  "codeowners": [],
+  "iot_class": "local_polling"
+}
