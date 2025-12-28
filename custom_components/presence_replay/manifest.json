@@ -1,0 +1,1 @@
+{"domain":"presence_replay","name":"Presence Replay","version":"1.0.0","dependencies":["recorder","http","frontend"]}
